@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Encapsulation", "OOP-Encapsulation\OOP-Encapsulation.csproj", "{3E94C0DE-19D2-4788-9E42-1B0293C48150}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticDataAndMembers", "StaticDataAndMembers\StaticDataAndMembers.csproj", "{33A08C0E-C285-4956-B440-5EAB7977D41E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3E94C0DE-19D2-4788-9E42-1B0293C48150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E94C0DE-19D2-4788-9E42-1B0293C48150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E94C0DE-19D2-4788-9E42-1B0293C48150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A08C0E-C285-4956-B440-5EAB7977D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A08C0E-C285-4956-B440-5EAB7977D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A08C0E-C285-4956-B440-5EAB7977D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A08C0E-C285-4956-B440-5EAB7977D41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

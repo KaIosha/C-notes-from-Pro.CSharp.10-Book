@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\",
+  "WorkspaceRootPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1D25382-8F68-4B96-9B46-204CB5156849}|ValueType\u0026\u0026RefType\\ValueType\u0026\u0026RefType.csproj|e:\\studyin dot net from the book\\dot net notes\\valuetype\u0026\u0026reftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D25382-8F68-4B96-9B46-204CB5156849}|ValueType\u0026\u0026RefType\\ValueType\u0026\u0026RefType.csproj|solutionrelative:valuetype\u0026\u0026reftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\oop-encapsulation\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D8785D-EB45-45F7-9A7F-E8AEA59AF513}|Struct\\Struct.csproj|e:\\studyin dot net from the book\\dot net notes\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D8785D-EB45-45F7-9A7F-E8AEA59AF513}|Struct\\Struct.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\oop-encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D8785D-EB45-45F7-9A7F-E8AEA59AF513}|Struct\\Struct.csproj|e:\\studyin dot net from the book\\dot net notes\\struct\\struct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E1D8785D-EB45-45F7-9A7F-E8AEA59AF513}|Struct\\Struct.csproj|solutionrelative:struct\\struct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studyin dot net from the book\\dot net notes\\oop-encapsulation\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studyin dot net from the book\\dot net notes\\oop-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\oop-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studyin dot net from the book\\dot net notes\\oop-encapsulation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,79 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Studyin Dot Net From the book\\Dot Net notes\\ValueType\u0026\u0026RefType\\Program.cs",
-              "RelativeDocumentMoniker": "ValueType\u0026\u0026RefType\\Program.cs",
-              "ToolTip": "E:\\Studyin Dot Net From the book\\Dot Net notes\\ValueType\u0026\u0026RefType\\Program.cs",
-              "RelativeToolTip": "ValueType\u0026\u0026RefType\\Program.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmployeePayTypeEnum.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\EmployeePayTypeEnum.cs",
+              "RelativeDocumentMoniker": "OOP-Encapsulation\\EmployeePayTypeEnum.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\EmployeePayTypeEnum.cs",
+              "RelativeToolTip": "OOP-Encapsulation\\EmployeePayTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T03:26:01.653Z",
+              "WhenOpened": "2026-03-06T22:53:31.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Program.cs",
-              "RelativeDocumentMoniker": "Struct\\Program.cs",
-              "ToolTip": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Program.cs",
-              "RelativeToolTip": "Struct\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP-Encapsulation\\Employee.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Employee.cs",
+              "RelativeToolTip": "OOP-Encapsulation\\Employee.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T03:25:48.664Z",
+              "WhenOpened": "2026-03-06T21:51:40.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Struct",
-              "DocumentMoniker": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Struct.csproj",
-              "RelativeDocumentMoniker": "Struct\\Struct.csproj",
-              "ToolTip": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Struct.csproj",
-              "RelativeToolTip": "Struct\\Struct.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-06T03:25:45.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Motorcycle.cs",
-              "DocumentMoniker": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\Motorcycle.cs",
-              "RelativeDocumentMoniker": "OOP-Encapsulation\\Motorcycle.cs",
-              "ToolTip": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\Motorcycle.cs",
-              "RelativeToolTip": "OOP-Encapsulation\\Motorcycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T02:31:24.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\Car.cs",
-              "RelativeDocumentMoniker": "OOP-Encapsulation\\Car.cs",
-              "ToolTip": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\Car.cs",
-              "RelativeToolTip": "OOP-Encapsulation\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T01:23:07.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\Program.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "OOP-Encapsulation\\Program.cs",
-              "ToolTip": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Program.cs",
               "RelativeToolTip": "OOP-Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T01:19:11.914Z",
+              "WhenOpened": "2026-03-06T20:12:20.05Z",
               "EditorCaption": ""
             }
           ]

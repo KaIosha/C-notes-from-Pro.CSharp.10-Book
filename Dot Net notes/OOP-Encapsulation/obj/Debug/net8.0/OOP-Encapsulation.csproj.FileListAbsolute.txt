@@ -12,3 +12,18 @@ E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.
 E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.pdb
 E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.genruntimeconfig.cache
 E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\ref\OOP-Encapsulation.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\refint\OOP-Encapsulation.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\ref\OOP-Encapsulation.dll

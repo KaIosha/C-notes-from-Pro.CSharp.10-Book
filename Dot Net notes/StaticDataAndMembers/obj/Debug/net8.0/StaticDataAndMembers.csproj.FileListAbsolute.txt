@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\refint\StaticDataAndMembers.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\StaticDataAndMembers\obj\Debug\net8.0\ref\StaticDataAndMembers.dll

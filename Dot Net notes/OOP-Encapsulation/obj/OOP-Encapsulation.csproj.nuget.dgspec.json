@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj": {}
+    "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj": {}
   },
   "projects": {
-    "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj": {
+    "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj",
+        "projectUniqueName": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj",
         "projectName": "OOP-Encapsulation",
-        "projectPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj",
+        "projectPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\OOP-Encapsulation.csproj",
         "packagesPath": "C:\\Users\\Kalosha\\.nuget\\packages\\",
-        "outputPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\OOP-Encapsulation\\obj\\",
+        "outputPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

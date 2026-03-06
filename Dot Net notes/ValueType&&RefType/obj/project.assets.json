@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Studyin Dot Net From the book\\Dot Net notes\\ValueType&&RefType\\ValueType&&RefType.csproj",
+      "projectUniqueName": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ValueType&&RefType\\ValueType&&RefType.csproj",
       "projectName": "ValueType&&RefType",
-      "projectPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\ValueType&&RefType\\ValueType&&RefType.csproj",
+      "projectPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ValueType&&RefType\\ValueType&&RefType.csproj",
       "packagesPath": "C:\\Users\\Kalosha\\.nuget\\packages\\",
-      "outputPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\ValueType&&RefType\\obj\\",
+      "outputPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ValueType&&RefType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Struct.csproj": {}
+    "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Struct\\Struct.csproj": {}
   },
   "projects": {
-    "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Struct.csproj": {
+    "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Struct\\Struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Struct.csproj",
+        "projectUniqueName": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Struct\\Struct.csproj",
         "projectName": "Struct",
-        "projectPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\Struct.csproj",
+        "projectPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Struct\\Struct.csproj",
         "packagesPath": "C:\\Users\\Kalosha\\.nuget\\packages\\",
-        "outputPath": "E:\\Studyin Dot Net From the book\\Dot Net notes\\Struct\\obj\\",
+        "outputPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Struct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
