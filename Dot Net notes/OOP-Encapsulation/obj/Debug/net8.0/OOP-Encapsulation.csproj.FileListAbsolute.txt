@@ -1,0 +1,14 @@
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.exe
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.deps.json
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.runtimeconfig.json
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.dll
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.pdb
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.AssemblyInfoInputs.cache
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.AssemblyInfo.cs
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.csproj.CoreCompileInputs.cache
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.dll
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\refint\OOP-Encapsulation.dll
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.pdb
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.genruntimeconfig.cache
+E:\Studyin Dot Net From the book\Dot Net notes\OOP-Encapsulation\obj\Debug\net8.0\ref\OOP-Encapsulation.dll

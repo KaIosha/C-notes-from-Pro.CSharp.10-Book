@@ -1,0 +1,14 @@
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\bin\Debug\net8.0\ValueType&&RefType.exe
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\bin\Debug\net8.0\ValueType&&RefType.deps.json
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\bin\Debug\net8.0\ValueType&&RefType.runtimeconfig.json
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\bin\Debug\net8.0\ValueType&&RefType.dll
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\bin\Debug\net8.0\ValueType&&RefType.pdb
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.AssemblyInfoInputs.cache
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.AssemblyInfo.cs
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.csproj.CoreCompileInputs.cache
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.dll
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\refint\ValueType&&RefType.dll
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.pdb
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ValueType&&RefType.genruntimeconfig.cache
+E:\Studyin Dot Net From the book\Dot Net notes\ValueType&&RefType\obj\Debug\net8.0\ref\ValueType&&RefType.dll

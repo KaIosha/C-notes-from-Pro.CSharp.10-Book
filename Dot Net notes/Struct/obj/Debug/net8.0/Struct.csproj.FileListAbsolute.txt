@@ -1,0 +1,14 @@
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.exe
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.deps.json
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.dll
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.pdb
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.dll
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\refint\Struct.dll
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.pdb
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\ref\Struct.dll
