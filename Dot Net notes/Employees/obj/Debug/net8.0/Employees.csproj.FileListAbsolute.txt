@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\bin\Debug\net8.0\Employees.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\bin\Debug\net8.0\Employees.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\bin\Debug\net8.0\Employees.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\bin\Debug\net8.0\Employees.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\bin\Debug\net8.0\Employees.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\refint\Employees.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\Employees.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Employees\obj\Debug\net8.0\ref\Employees.dll

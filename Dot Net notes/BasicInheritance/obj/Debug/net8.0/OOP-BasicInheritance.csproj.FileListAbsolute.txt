@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\bin\Debug\net8.0\OOP-BasicInheritance.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\bin\Debug\net8.0\OOP-BasicInheritance.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\bin\Debug\net8.0\OOP-BasicInheritance.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\bin\Debug\net8.0\OOP-BasicInheritance.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\bin\Debug\net8.0\OOP-BasicInheritance.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\refint\OOP-BasicInheritance.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\OOP-BasicInheritance.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\BasicInheritance\obj\Debug\net8.0\ref\OOP-BasicInheritance.dll

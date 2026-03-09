@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DB45244-D6F9-4B50-B608-D98D982A0236}|FunWithRecords\\FunWithRecords.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\funwithrecords\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB45244-D6F9-4B50-B608-D98D982A0236}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A16AF889-7E43-4E81-9772-1F82B8F08D20}|Abstraction\\Abstraction.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16AF889-7E43-4E81-9772-1F82B8F08D20}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB45244-D6F9-4B50-B608-D98D982A0236}|FunWithRecords\\FunWithRecords.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\funwithrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB45244-D6F9-4B50-B608-D98D982A0236}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019EF6F4-A4EF-4E90-A8E7-53CDE9FD34A1}|ObjectInitializers\\ObjectInitializers.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{019EF6F4-A4EF-4E90-A8E7-53CDE9FD34A1}|ObjectInitializers\\ObjectInitializers.csproj|solutionrelative:objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019EF6F4-A4EF-4E90-A8E7-53CDE9FD34A1}|ObjectInitializers\\ObjectInitializers.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\objectinitializers\\pointreadonlyaftercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{019EF6F4-A4EF-4E90-A8E7-53CDE9FD34A1}|ObjectInitializers\\ObjectInitializers.csproj|solutionrelative:objectinitializers\\pointreadonlyaftercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019EF6F4-A4EF-4E90-A8E7-53CDE9FD34A1}|ObjectInitializers\\ObjectInitializers.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\objectinitializers\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{019EF6F4-A4EF-4E90-A8E7-53CDE9FD34A1}|ObjectInitializers\\ObjectInitializers.csproj|solutionrelative:objectinitializers\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\oop-encapsulation\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\oop-encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\ptsalesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\ptsalesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\oop-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E94C0DE-19D2-4788-9E42-1B0293C48150}|OOP-Encapsulation\\OOP-Encapsulation.csproj|solutionrelative:oop-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD13DB06-1722-4039-9357-6B1A52BE510F}|BasicInheritance\\OOP-BasicInheritance.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\basicinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD13DB06-1722-4039-9357-6B1A52BE510F}|BasicInheritance\\OOP-BasicInheritance.csproj|solutionrelative:basicinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD13DB06-1722-4039-9357-6B1A52BE510F}|BasicInheritance\\OOP-BasicInheritance.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\basicinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD13DB06-1722-4039-9357-6B1A52BE510F}|BasicInheritance\\OOP-BasicInheritance.csproj|solutionrelative:basicinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD13DB06-1722-4039-9357-6B1A52BE510F}|BasicInheritance\\OOP-BasicInheritance.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\basicinheritance\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD13DB06-1722-4039-9357-6B1A52BE510F}|BasicInheritance\\OOP-BasicInheritance.csproj|solutionrelative:basicinheritance\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,104 +67,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\FunWithRecords\\Car.cs",
-              "RelativeDocumentMoniker": "FunWithRecords\\Car.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\FunWithRecords\\Car.cs",
-              "RelativeToolTip": "FunWithRecords\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T14:01:31.227Z",
+              "WhenOpened": "2026-03-09T02:55:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BenefitPackage.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\BenefitPackage.cs",
+              "RelativeDocumentMoniker": "Employees\\BenefitPackage.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\BenefitPackage.cs",
+              "RelativeToolTip": "Employees\\BenefitPackage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T01:20:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PtSalesPerson.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\PtSalesPerson.cs",
+              "RelativeDocumentMoniker": "Employees\\PtSalesPerson.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\PtSalesPerson.cs",
+              "RelativeToolTip": "Employees\\PtSalesPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T01:14:14.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesPerson.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\SalesPerson.cs",
+              "RelativeDocumentMoniker": "Employees\\SalesPerson.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\SalesPerson.cs",
+              "RelativeToolTip": "Employees\\SalesPerson.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwDIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:47:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Manager.cs",
+              "RelativeDocumentMoniker": "Employees\\Manager.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Manager.cs",
+              "RelativeToolTip": "Employees\\Manager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:45:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeePayTypeEnum.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\EmployeePayTypeEnum.cs",
+              "RelativeDocumentMoniker": "Employees\\EmployeePayTypeEnum.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\EmployeePayTypeEnum.cs",
+              "RelativeToolTip": "Employees\\EmployeePayTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:44:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "Employees\\Employee.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Employee.cs",
+              "RelativeToolTip": "Employees\\Employee.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:43:58.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\FunWithRecords\\Program.cs",
-              "RelativeDocumentMoniker": "FunWithRecords\\Program.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\FunWithRecords\\Program.cs",
-              "RelativeToolTip": "FunWithRecords\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Program.cs",
+              "RelativeDocumentMoniker": "Employees\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Program.cs",
+              "RelativeToolTip": "Employees\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T14:01:14.863Z",
+              "WhenOpened": "2026-03-09T00:42:25.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PointReadOnlyAfterCreation.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ObjectInitializers\\PointReadOnlyAfterCreation.cs",
-              "RelativeDocumentMoniker": "ObjectInitializers\\PointReadOnlyAfterCreation.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ObjectInitializers\\PointReadOnlyAfterCreation.cs",
-              "RelativeToolTip": "ObjectInitializers\\PointReadOnlyAfterCreation.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAApwAwAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "MiniVan.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\BasicInheritance\\MiniVan.cs",
+              "RelativeDocumentMoniker": "BasicInheritance\\MiniVan.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\BasicInheritance\\MiniVan.cs",
+              "RelativeToolTip": "BasicInheritance\\MiniVan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T13:16:25.283Z",
+              "WhenOpened": "2026-03-09T00:24:49.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Point.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ObjectInitializers\\Point.cs",
-              "RelativeDocumentMoniker": "ObjectInitializers\\Point.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ObjectInitializers\\Point.cs",
-              "RelativeToolTip": "ObjectInitializers\\Point.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBMAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\BasicInheritance\\Car.cs",
+              "RelativeDocumentMoniker": "BasicInheritance\\Car.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\BasicInheritance\\Car.cs",
+              "RelativeToolTip": "BasicInheritance\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T13:10:29.97Z",
+              "WhenOpened": "2026-03-07T15:22:47.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ObjectInitializers\\Program.cs",
-              "RelativeDocumentMoniker": "ObjectInitializers\\Program.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\ObjectInitializers\\Program.cs",
-              "RelativeToolTip": "ObjectInitializers\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\BasicInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "BasicInheritance\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\BasicInheritance\\Program.cs",
+              "RelativeToolTip": "BasicInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T13:10:08.837Z",
+              "WhenOpened": "2026-03-07T15:20:51.384Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeePayTypeEnum.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\EmployeePayTypeEnum.cs",
-              "RelativeDocumentMoniker": "OOP-Encapsulation\\EmployeePayTypeEnum.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\EmployeePayTypeEnum.cs",
-              "RelativeToolTip": "OOP-Encapsulation\\EmployeePayTypeEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T22:53:31.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Employee.cs",
-              "RelativeDocumentMoniker": "OOP-Encapsulation\\Employee.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Employee.cs",
-              "RelativeToolTip": "OOP-Encapsulation\\Employee.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T21:51:40.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "OOP-Encapsulation\\Program.cs",
-              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\OOP-Encapsulation\\Program.cs",
-              "RelativeToolTip": "OOP-Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T20:12:20.05Z"
             }
           ]
         },
