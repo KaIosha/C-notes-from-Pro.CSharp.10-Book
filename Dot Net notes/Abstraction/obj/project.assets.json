@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\Abstraction.csproj",
-      "projectName": "Abstraction",
-      "projectPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\Abstraction.csproj",
+      "projectUniqueName": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\Shapes.csproj",
+      "projectName": "Shapes",
+      "projectPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\Shapes.csproj",
       "packagesPath": "C:\\Users\\Kalosha\\.nuget\\packages\\",
       "outputPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Abstraction\\obj\\",
       "projectStyle": "PackageReference",

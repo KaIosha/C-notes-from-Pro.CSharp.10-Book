@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\bin\Debug\net8.0\Shapes.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\bin\Debug\net8.0\Shapes.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\bin\Debug\net8.0\Shapes.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\bin\Debug\net8.0\Shapes.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\bin\Debug\net8.0\Shapes.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\refint\Shapes.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Abstraction\obj\Debug\net8.0\ref\Shapes.dll

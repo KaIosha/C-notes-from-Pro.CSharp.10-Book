@@ -31,7 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inheritance", "Inheritance"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "Employees\Employees.csproj", "{6863C834-7EED-4D8E-9923-FDBE30FAAA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{A16AF889-7E43-4E81-9772-1F82B8F08D20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Abstraction\Shapes.csproj", "{A16AF889-7E43-4E81-9772-1F82B8F08D20}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract", "Abstract", "{5F835CF5-C059-42CA-9DA2-C7688A2A1E59}"
 EndProject
