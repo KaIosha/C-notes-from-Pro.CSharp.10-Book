@@ -1,4 +1,6 @@
-﻿namespace Employees
+﻿using System.Text;
+
+namespace Employees
 {
     internal class Program
     {
@@ -33,11 +35,11 @@
             //Console.ReadLine(); 
             #endregion
 
-            object[] things = new object[4];
-            things[0] = new Hexagon();
-            things[1] = false;
-            things[2] = new Manager();
-            things[3] = "Last thing";
+            //object[] things = new object[4];
+            //things[0] = new Hexagon();
+            //things[1] = false;
+            //things[2] = new Manager();
+            //things[3] = "Last thing";
 
             #region eplicit casting for objects
             //foreach (var item in things)
@@ -52,6 +54,29 @@
             //} 
             #endregion
 
+            //int num1 = 10;
+            //int num2 = 11;
+
+            //object n1 = ("Hello");
+            //object n2 = n1;
+
+            //Console.WriteLine(n1.GetHashCode());
+            //Console.WriteLine(n2.GetHashCode());
+
+            // Console.WriteLine(num1.Equals(num2));
+            //Console.WriteLine(n1.Equals(n2));
+            //Console.WriteLine(n1.GetHashCode());
+            //Console.WriteLine(n2.GetHashCode());
+
+            object obj = new object();  
+            object obj2= new object();
+
+            Employee employee1 = new Employee();
+            Employee employee2 = new Employee();
+
+            Console.WriteLine(employee2.Equals(employee1));
+            Console.WriteLine(obj.Equals(obj2));
+
 
         }
 
@@ -64,6 +89,23 @@
             Employee moonUnit = new Manager("MoonUnit Zappa", 2, 3001, 20000, "101-11-1321", 1);
             // A PtSalesPerson "is-a" SalesPerson.
             SalesPerson jill = new PtSalesPerson("Jill", 834, 3002, 100000, "111-12-1119", 90);
+        }
+
+        public static void GivePromotion(Employee emp)
+        {
+            Console.WriteLine("{0} was promoted!\", emp.Name");
+            switch (emp)
+            {
+                case SalesPerson s:
+                    Console.WriteLine("{0} made {1} sale(s)!", emp.Name, s.SalesNumber);
+                    break;
+                case Manager m:
+                    Console.WriteLine("{0} had {1} stock options...", emp.Name, m.StockOptions);
+                    break;
+
+
+            }
+            Console.WriteLine();
         }
     }
 }

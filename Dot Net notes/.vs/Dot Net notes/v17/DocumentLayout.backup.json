@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\employees\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6863C834-7EED-4D8E-9923-FDBE30FAAA89}|Employees\\Employees.csproj|solutionrelative:employees\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Hexagon.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Hexagon.cs",
               "RelativeDocumentMoniker": "Employees\\Hexagon.cs",
               "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Hexagon.cs",
               "RelativeToolTip": "Employees\\Hexagon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T14:37:06.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Manager.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Manager.cs",
               "RelativeDocumentMoniker": "Employees\\Manager.cs",
               "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Manager.cs",
               "RelativeToolTip": "Employees\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAIA1wDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T14:32:42.986Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "Employees\\Program.cs",
               "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Program.cs*",
               "RelativeToolTip": "Employees\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T14:28:07.042Z",
               "EditorCaption": ""

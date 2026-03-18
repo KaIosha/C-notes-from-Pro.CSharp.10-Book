@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employees
 {
-    internal class Hexagon
+    internal class Hexagon:Object
     {
         public void Draw()
         {

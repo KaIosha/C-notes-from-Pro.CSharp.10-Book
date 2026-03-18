@@ -38,5 +38,11 @@ numbOfOpts)
             base.DisplayStats();
             Console.WriteLine("Number of Stock Options: {0}", StockOptions);
         }
+
+
+        public override bool Equals(object? obj)
+        {
+            return base.Equals(obj);
+        }
     }
 }
