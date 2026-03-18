@@ -129,7 +129,7 @@ Each chapter contains:
 
 The goal is to build a **strong and deep understanding** of:
 
-- C#
+-  C#
 - .NET
 - Object-Oriented Programming
 - Writing clean and maintainable code
