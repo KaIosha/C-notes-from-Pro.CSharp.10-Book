@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\refint\CustomInterfaces.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomInterfaces\obj\Debug\net8.0\ref\CustomInterfaces.dll

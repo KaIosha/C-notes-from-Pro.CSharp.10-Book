@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿using System.Security.Cryptography.X509Certificates;
 
 namespace Employees
 {
@@ -68,15 +68,19 @@ namespace Employees
             //Console.WriteLine(n1.GetHashCode());
             //Console.WriteLine(n2.GetHashCode());
 
-            object obj = new object();  
-            object obj2= new object();
+            //object obj = new object();  
+            //object obj2= new object();
 
-            Employee employee1 = new Employee();
-            Employee employee2 = new Employee();
+            //Employee employee1 = new Employee();
+            //Employee employee2 = new Employee();
 
-            Console.WriteLine(employee2.Equals(employee1));
-            Console.WriteLine(obj.Equals(obj2));
+            //Console.WriteLine(employee2.Equals(employee1));
+            //Console.WriteLine(obj.Equals(obj2));
 
+            List<int> list1 = new List<int>() { 1, 2, 3 };
+            List<int> list2 = list1;
+
+            Console.WriteLine(list1.Equals(list2));
 
         }
 
@@ -108,6 +112,27 @@ namespace Employees
             Console.WriteLine();
         }
     }
-}
 
+    abstract class Test()
+    {
+        public void print()
+        {
+            Console.WriteLine("Test is here!!! ");
+        }
+
+        public abstract void Print2();
+    }
+
+
+    class Test2() : Test
+    {
+        public override void Print2()
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+
+
+}
 
