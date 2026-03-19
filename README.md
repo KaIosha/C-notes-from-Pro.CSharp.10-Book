@@ -18,7 +18,8 @@ The repository will be continuously updated as I progress through the book.
 | Chapter 4 | Core C# Programming Constructs (Part 2) | ✅ Completed |
 | Chapter 5 | Understanding Encapsulation | ✅ Completed |
 | Chapter 6 | Understanding Inheritance and Polymorphism | ✅ Completed |
-
+| Chapter 7 | Structured Exception Handling | ✅ Completed
+| Chapter 8 | Working with Interfaces | 🟡 In Progress (up to IEnumerable)
 
 ---
 
@@ -112,6 +113,39 @@ Key OOP concepts:
 - Casting between base and derived types
 
 ---
+## Chapter 7 – Structured Exception Handling
+
+Concepts learned:
+
+- Difference between errors, bugs, and exceptions
+- The role of .NET exception handling
+- try, catch, finally blocks
+- Throwing exceptions using throw
+- Exception properties (Message, StackTrace, TargetSite, etc.)
+- Creating custom exceptions
+- Handling multiple exceptions
+- Rethrowing exceptions
+- Inner exceptions
+- Exception filters
+- Debugging exceptions in Visual Studio
+
+## Chapter 8 – Working with Interfaces (In Progress)
+
+Topics covered so far:
+
+- Understanding interface types
+- Interfaces vs abstract classes
+- Defining and implementing interfaces
+- Accessing interface members
+- Using is and as with interfaces
+- Interfaces as parameters and return types
+- Arrays of interface types
+- Explicit interface implementation
+- Default interface implementations (C# 8)
+- Static members in interfaces
+
+🟡 Currently learning:  IEnumerable and collection-based interfaces
+
 
 ## Remain Chapters ⏳ Pending
 
@@ -130,8 +164,8 @@ Each chapter contains:
 The goal is to build a **strong and deep understanding** of:
 
 -  C#
-- .NET
-- Object-Oriented Programming
+-  Object-Oriented Programming
+- .NET Core
 - Writing clean and maintainable code
 
 This repository acts as my **public learning journal** while studying the book.
@@ -147,6 +181,5 @@ I will continue updating this repository as I progress through the remaining cha
 # 👨‍💻 Author
 
 **Youssef Waeel**
-
 Computer & Data Science Student  
 Learning **C#, .NET, and backend development**
