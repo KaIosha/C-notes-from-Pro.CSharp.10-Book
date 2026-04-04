@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\refint\CustomEnumerator.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\CustomEnumerator\obj\Debug\net8.0\ref\CustomEnumerator.dll

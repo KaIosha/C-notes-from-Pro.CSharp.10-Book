@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\bin\Debug\net8.0\IComparable_Infterface.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\bin\Debug\net8.0\IComparable_Infterface.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\bin\Debug\net8.0\IComparable_Infterface.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\bin\Debug\net8.0\IComparable_Infterface.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\bin\Debug\net8.0\IComparable_Infterface.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\refint\IComparable_Infterface.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\IComparable_Infterface.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\IComparable_Infterface\obj\Debug\net8.0\ref\IComparable_Infterface.dll

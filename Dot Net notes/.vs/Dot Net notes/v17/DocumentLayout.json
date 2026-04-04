@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE5A8080-5C44-4D1F-822C-E2FFEE7D9D04}|IComparable_Infterface\\IComparable_Infterface.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\icomparable_infterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5A8080-5C44-4D1F-822C-E2FFEE7D9D04}|IComparable_Infterface\\IComparable_Infterface.csproj|solutionrelative:icomparable_infterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81C3E1-4418-4C67-8CA9-6C02A7A4615E}|CustomEnumerator\\CustomEnumerator.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\customenumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81C3E1-4418-4C67-8CA9-6C02A7A4615E}|CustomEnumerator\\CustomEnumerator.csproj|solutionrelative:customenumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22BC5B-86BC-477B-903F-50E1172D066C}|Tuples\\Tuples.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22BC5B-86BC-477B-903F-50E1172D066C}|Tuples\\Tuples.csproj|solutionrelative:tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22BC5B-86BC-477B-903F-50E1172D066C}|Tuples\\Tuples.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\tuples\\tuples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A22BC5B-86BC-477B-903F-50E1172D066C}|Tuples\\Tuples.csproj|solutionrelative:tuples\\tuples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91438457-7F4A-4F8C-997A-2E891441A3F0}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\studying_dot_net_from_the_book\\dot net notes\\miinterfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91438457-7F4A-4F8C-997A-2E891441A3F0}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -94,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +122,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\IComparable_Infterface\\Program.cs",
+              "RelativeDocumentMoniker": "IComparable_Infterface\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\IComparable_Infterface\\Program.cs",
+              "RelativeToolTip": "IComparable_Infterface\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:33:00.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "Tuples\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Tuples\\Program.cs",
+              "RelativeToolTip": "Tuples\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:05:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tuples",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Tuples\\Tuples.csproj",
+              "RelativeDocumentMoniker": "Tuples\\Tuples.csproj",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Tuples\\Tuples.csproj",
+              "RelativeToolTip": "Tuples\\Tuples.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T19:05:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomEnumerator\\Program.cs",
+              "RelativeDocumentMoniker": "CustomEnumerator\\Program.cs",
+              "ToolTip": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomEnumerator\\Program.cs",
+              "RelativeToolTip": "CustomEnumerator\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T12:42:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\MiInterfaceHierarchy\\Rectangle.cs",
               "RelativeDocumentMoniker": "MiInterfaceHierarchy\\Rectangle.cs",
@@ -114,12 +182,11 @@
               "RelativeToolTip": "MiInterfaceHierarchy\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T02:00:47.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T02:00:47.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IShape.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\MiInterfaceHierarchy\\IShape.cs",
               "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IShape.cs",
@@ -127,12 +194,11 @@
               "RelativeToolTip": "MiInterfaceHierarchy\\IShape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:59:42.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:59:42.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IPrintable.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\MiInterfaceHierarchy\\IPrintable.cs",
               "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IPrintable.cs",
@@ -140,12 +206,11 @@
               "RelativeToolTip": "MiInterfaceHierarchy\\IPrintable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:58:25.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:58:25.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "IDrawable.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\MiInterfaceHierarchy\\IDrawable.cs",
               "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IDrawable.cs",
@@ -153,12 +218,11 @@
               "RelativeToolTip": "MiInterfaceHierarchy\\IDrawable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:58:01.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:58:01.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\MiInterfaceHierarchy\\Program.cs",
               "RelativeDocumentMoniker": "MiInterfaceHierarchy\\Program.cs",
@@ -166,12 +230,11 @@
               "RelativeToolTip": "MiInterfaceHierarchy\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:57:25.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:57:25.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "BitmapImage.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\InterfaceHierarchy\\BitmapImage.cs",
               "RelativeDocumentMoniker": "InterfaceHierarchy\\BitmapImage.cs",
@@ -179,12 +242,11 @@
               "RelativeToolTip": "InterfaceHierarchy\\BitmapImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:45:02.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:45:02.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IAdvancedDraw.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\InterfaceHierarchy\\IAdvancedDraw.cs",
               "RelativeDocumentMoniker": "InterfaceHierarchy\\IAdvancedDraw.cs",
@@ -192,12 +254,11 @@
               "RelativeToolTip": "InterfaceHierarchy\\IAdvancedDraw.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:44:04.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:44:04.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "IDrawable.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\InterfaceHierarchy\\IDrawable.cs",
               "RelativeDocumentMoniker": "InterfaceHierarchy\\IDrawable.cs",
@@ -205,12 +266,11 @@
               "RelativeToolTip": "InterfaceHierarchy\\IDrawable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:43:40.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:43:40.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\InterfaceHierarchy\\Program.cs",
               "RelativeDocumentMoniker": "InterfaceHierarchy\\Program.cs",
@@ -218,12 +278,11 @@
               "RelativeToolTip": "InterfaceHierarchy\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:43:24.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:43:24.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "IPointy.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\IPointy.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\IPointy.cs",
@@ -231,12 +290,11 @@
               "RelativeToolTip": "CustomInterfaces\\IPointy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:57:17.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:57:17.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Hexagon.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\Hexagon.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Hexagon.cs",
@@ -244,12 +302,11 @@
               "RelativeToolTip": "CustomInterfaces\\Hexagon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:20:10.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:20:10.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Shape.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\Shape.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Shape.cs",
@@ -257,12 +314,11 @@
               "RelativeToolTip": "CustomInterfaces\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:20:00.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:20:00.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Circle.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\Circle.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Circle.cs",
@@ -270,12 +326,11 @@
               "RelativeToolTip": "CustomInterfaces\\Circle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:19:49.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:19:49.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\Program.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Program.cs",
@@ -283,12 +338,11 @@
               "RelativeToolTip": "CustomInterfaces\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:10:21.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:10:21.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Triangle.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\Triangle.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Triangle.cs",
@@ -296,12 +350,11 @@
               "RelativeToolTip": "CustomInterfaces\\Triangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:02:55.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:02:55.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "IDraw3D.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\IDraw3D.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\IDraw3D.cs",
@@ -309,12 +362,11 @@
               "RelativeToolTip": "CustomInterfaces\\IDraw3D.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T01:12:18.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T01:12:18.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ThreeDCircle.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\ThreeDCircle.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\ThreeDCircle.cs",
@@ -322,12 +374,11 @@
               "RelativeToolTip": "CustomInterfaces\\ThreeDCircle.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:19:01.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:19:01.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "CloneableType.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\CustomInterfaces\\CloneableType.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\CloneableType.cs",
@@ -335,12 +386,11 @@
               "RelativeToolTip": "CustomInterfaces\\CloneableType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:10:37.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:10:37.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Hexagon.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Hexagon.cs",
               "RelativeDocumentMoniker": "Employees\\Hexagon.cs",
@@ -352,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Manager.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Manager.cs",
               "RelativeDocumentMoniker": "Employees\\Manager.cs",
@@ -364,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Studying_Dot_Net_From_the_book\\Dot Net notes\\Employees\\Program.cs",
               "RelativeDocumentMoniker": "Employees\\Program.cs",
@@ -372,8 +422,7 @@
               "RelativeToolTip": "Employees\\Program.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAQwIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T14:28:07.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T14:28:07.042Z"
             }
           ]
         },
