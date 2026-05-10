@@ -143,8 +143,12 @@ Topics covered so far:
 - Explicit interface implementation
 - Default interface implementations (C# 8)
 - Static members in interfaces
+- IEnumrable And IEnumrator
+- IClonable
+- IComparable And IComparer
 
-🟡 Currently learning:  IEnumerable and collection-based interfaces
+## Chapter 9 - Understanding Object Lifetime
+🟡 Currently learning:  Chapter 9
 
 
 ## Remain Chapters ⏳ Pending
