@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\bin\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\bin\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\bin\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\bin\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\bin\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\refint\Some_TOPICS_FROM_ITI_advCourse.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\Some_TOPICS_FROM_ITI_advCourse.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Some_TOPICS_FROM_ITI_advCourse\obj\Debug\net8.0\ref\Some_TOPICS_FROM_ITI_advCourse.dll

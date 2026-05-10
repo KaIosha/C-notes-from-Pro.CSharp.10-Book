@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\refint\InterfaceExtensions.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\InterfaceExtensions\obj\Debug\net8.0\ref\InterfaceExtensions.dll

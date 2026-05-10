@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\refint\ObjectLifeTime.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\ObjectLifeTime\obj\Debug\net8.0\ref\ObjectLifeTime.dll

@@ -12,3 +12,18 @@ E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\refint\St
 E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.pdb
 E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
 E:\Studyin Dot Net From the book\Dot Net notes\Struct\obj\Debug\net8.0\ref\Struct.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\bin\Debug\net8.0\Struct.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\refint\Struct.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Struct\obj\Debug\net8.0\ref\Struct.dll

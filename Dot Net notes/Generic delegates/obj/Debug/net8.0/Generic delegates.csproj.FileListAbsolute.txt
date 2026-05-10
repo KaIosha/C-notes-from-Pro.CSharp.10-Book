@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\bin\Debug\net8.0\Generic delegates.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\bin\Debug\net8.0\Generic delegates.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\bin\Debug\net8.0\Generic delegates.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\bin\Debug\net8.0\Generic delegates.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\bin\Debug\net8.0\Generic delegates.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\refint\Generic delegates.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\Generic delegates.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Generic delegates\obj\Debug\net8.0\ref\Generic delegates.dll

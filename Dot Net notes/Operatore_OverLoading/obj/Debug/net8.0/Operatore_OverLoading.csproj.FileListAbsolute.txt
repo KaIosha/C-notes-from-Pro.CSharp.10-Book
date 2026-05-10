@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\bin\Debug\net8.0\Operatore_OverLoading.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\bin\Debug\net8.0\Operatore_OverLoading.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\bin\Debug\net8.0\Operatore_OverLoading.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\bin\Debug\net8.0\Operatore_OverLoading.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\bin\Debug\net8.0\Operatore_OverLoading.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\refint\Operatore_OverLoading.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\Operatore_OverLoading.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Operatore_OverLoading\obj\Debug\net8.0\ref\Operatore_OverLoading.dll

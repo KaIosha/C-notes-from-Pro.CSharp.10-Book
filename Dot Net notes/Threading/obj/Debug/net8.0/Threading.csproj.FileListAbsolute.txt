@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\bin\Debug\net8.0\Threading.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\bin\Debug\net8.0\Threading.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\bin\Debug\net8.0\Threading.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\bin\Debug\net8.0\Threading.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\bin\Debug\net8.0\Threading.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\refint\Threading.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\Threading.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\Threading\obj\Debug\net8.0\ref\Threading.dll

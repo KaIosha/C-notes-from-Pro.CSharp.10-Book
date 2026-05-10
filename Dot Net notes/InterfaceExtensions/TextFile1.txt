@@ -1,0 +1,5 @@
+﻿Extending Types Implementing Specific Interfaces
+
+
+If you want to globalize the Extention method for example
+you want to make this method is useable by any type which is impementing the IEnumrable inter face

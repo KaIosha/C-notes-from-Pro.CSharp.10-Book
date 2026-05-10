@@ -1,0 +1,15 @@
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.exe
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.deps.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.runtimeconfig.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.AssemblyInfoInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.AssemblyInfo.cs
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.sourcelink.json
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\refint\SimpleDelegate.dll
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.pdb
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.genruntimeconfig.cache
+E:\Studying_Dot_Net_From_the_book\Dot Net notes\SimpleDelegate\obj\Debug\net8.0\ref\SimpleDelegate.dll

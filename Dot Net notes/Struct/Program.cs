@@ -1,4 +1,7 @@
-﻿namespace Struct
+﻿using System.Collections;
+using System.Text;
+
+namespace Struct
 {
     internal class Program
     {
@@ -25,7 +28,7 @@
 
         readonly struct ReadOnlyPoint
         {
-           //* public int x; // called field
+            //* public int x; // called field
             public int X { get; }// Call Property 
             public int Y { get; }
 
@@ -42,6 +45,7 @@
         }
         static void Main(string[] args)
         {
+
             //// Point myPoint=new Point();
             ////myPoint.X = 349;
             ////myPoint.Y = 76;
@@ -52,9 +56,21 @@
 
             //Point p2 = new Point(50, 60);
 
+            string s1 = "Hello";
+            StringBuilder sb = new StringBuilder("Hello");
+            StringBuilder sb2 =(new StringBuilder(s1));
 
+           
+            string s2 = "Hello";
+
+            Console.WriteLine(sb==sb2);
+            Console.WriteLine(s1==s2);
 
 
         }
+
+
+
+
     }
 }
