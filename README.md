@@ -25,7 +25,9 @@ The repository will be continuously updated as I progress through the book.
 | Chapter 11 | Advanced C# Language Features | ✅ Completed |
 | Chapter 12 | Delegates, Events, and Lambda Expressions | ✅ Completed |
 | Chapter 15 | Multithreaded, Parallel, and Async Programming | ✅ Completed (external source) |
-| LINQ | Language Integrated Query (LINQ) | maybe 80% Done |
+| LINQ | Language Integrated Query (LINQ) | ✅ Completed |
+------------------------------------------------------------------
+
 
 ---
 
