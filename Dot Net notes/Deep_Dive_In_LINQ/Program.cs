@@ -1,4 +1,7 @@
 ﻿
+using System.Linq;
+using Microsoft.VisualBasic;
+
 namespace Deep_Dive_In_LINQ
 {
     internal class Program
@@ -160,33 +163,16 @@ namespace Deep_Dive_In_LINQ
             //    } 
             #endregion
 
-            //    private static void RunGroupBy()
-            //    {
-            //        Console.WriteLine("Group By Method");
-            //        var emps = Repository.LoadEmployees();
+            #region IEnumerable vs IQueryable
+            //arrticle: https://dotnettutorials.net/lesson/differences-between-ienumerable-and-iqueryable/ 
+            #endregion
 
-            //        //var groups= emps.GroupBy(x => x.Salary);
+            #region Conversion Operators
+            //linkToRead: https://www.tutorialsteacher.com/linq/linq-conversion-operators
+            #endregion//    like(Tolist(), AsEnumerable(), ...)
 
-            //        //foreach (var item in groups)
-            //        //{
-            //        //    Console.WriteLine(item.Key);
-            //        //    foreach (Employee item2 in item)
-            //        //    {
-            //        //        Console.WriteLine(item2.Name);
 
-            //        //    }
-            //        //}
-
-            //        var result = emps
-            //.GroupBy(x => x.Salary)
-            //.SelectMany(g => g.Select(e => new { g.Key, e.Name }));
-
-            //        foreach (var item in result)
-            //        {
-            //            Console.WriteLine($"{item.Key} - {item.Name}");
-            //        }
-            //    }
-        }
+        } 
     }
 
 }
